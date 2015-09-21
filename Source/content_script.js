@@ -33,10 +33,10 @@ function handleText(textNode) {
 	var v = textNode.nodeValue;
 
   // Deal with the easy case
-  v = v.replace(/\b(I|i)(P|p)hone \ds*/g, function(match, p1, p2, offset, string) {
+  v = v.replace(/\b(I|i)(P|p)hone/g, function(match, p1, p2, offset, string) {
     i = String.fromCharCode(p1.charCodeAt(0));
     p = String.fromCharCode(p2.charCodeAt(0));
-    return "Charles'" + i + p + "hone 5";
+    return "Charles'" + i + p + "hone";
   });
 
 	textNode.nodeValue = v;
