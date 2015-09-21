@@ -1,26 +1,12 @@
-Cloud To Butt Plus
+Charles' iPhone 5
 =============
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt', and other amusing cloud-related substitutions.
+Chrome extension that replaces occurrences of 'iPhone' with 'Charles' iPhone'.
 
-[Direct download of crx file](https://github.com/hank/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+[Direct download of crx file](https://github.com/SmartestDoge/Charles-iPhone-5)
 
-Screenshot Gallery
-------------------
-
-http://www.flickr.com/groups/cloud-to-butt/
 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
-
-Safari Version
---------------
-
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
-
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
+In Chrome, choose Window > Extensions.  Drag Charles-iPhone.crx into the page that appears.
