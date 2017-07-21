@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Charles' iPhone 5",
+	"name": "Steve's iPhone 5",
 	"version": "1.0",
-	"description": "Replaces the text 'iPhone' with 'Charles' iPhone'.",
+	"description": "Replaces the text 'iPhone' with 'Steve's iPhone'.",
     "author": "Legit.Co.",
     "content_scripts": 
 	[
