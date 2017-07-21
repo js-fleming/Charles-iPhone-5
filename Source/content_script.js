@@ -36,7 +36,7 @@ function handleText(textNode) {
   v = v.replace(/\b(I|i)(P|p)hone/g, function(match, p1, p2, offset, string) {
     i = String.fromCharCode(p1.charCodeAt(0));
     p = String.fromCharCode(p2.charCodeAt(0));
-    return "Charles' " + i + p + "hone";
+    return "Steve's " + i + p + "hone";
   });
 
 	textNode.nodeValue = v;
