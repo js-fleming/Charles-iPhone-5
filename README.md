@@ -3,7 +3,7 @@ Steve's iPhone 5
 
 Chrome extension that replaces occurrences of 'iPhone' with 'Steve's iPhone'.
 
-[Direct download of crx file](https://github.com/SmartestDoge/Steves-iPhone-5)
+[Direct download of crx file](https://github.com/SmartestDoge/Steves-iPhone-5/Source.crx)
 
 
 Installation
